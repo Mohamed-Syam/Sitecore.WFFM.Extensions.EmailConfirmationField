@@ -3,7 +3,7 @@
 <div>
   <asp:Panel ID="passwordBorder" CssClass="scfConfirmPasswordBorder" runat="server">
     <wfmcustom:Label ID="passwordTitle" AssociatedControlID="password" runat="server" CssClass="scfConfirmPasswordLabel"
-      Text="Password" />
+      Text="Email" />
     <asp:Panel ID="passwordPanel" CssClass="scfConfirmPasswordGeneralPanel" runat="server">
       <asp:TextBox TextMode="SingleLine" MaxLength="256" AutoCompleteType="Disabled" CssClass="scfConfirmPasswordTextBox password.1"
         ID="password" runat="server">            

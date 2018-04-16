@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CFWebPortal.Foundation.MVCEmailConfirmation.MVC.Controls
+namespace Sitecore.WFFM.Extensions.MVCEmailConfirmation.MVC.Controls
 {
     public class EmailConfirmationField : EmailField
     {
